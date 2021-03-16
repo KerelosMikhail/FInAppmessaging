@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "240451927242",
+    "firebase_url": "https://finappmessaging-17898.firebaseio.com",
+    "project_id": "finappmessaging-17898",
+    "storage_bucket": "finappmessaging-17898.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240451927242:android:d03f800121948c86488833",
+        "android_client_info": {
+          "package_name": "com.kerelos.finappmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240451927242-j42eh12opeqfs2fk0pc74qhfvlof3nr0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kerelos.finappmessaging",
+            "certificate_hash": "abb08ce3dee7aa8ecf2a8ac8ed05c51878f5a92b"
+          }
+        },
+        {
+          "client_id": "240451927242-j4ek3io92opi6gani3e9bvbrib30ufab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC55mi8gHPZNUNGlY0V6VzvJb3gvf9DC4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240451927242-j4ek3io92opi6gani3e9bvbrib30ufab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
